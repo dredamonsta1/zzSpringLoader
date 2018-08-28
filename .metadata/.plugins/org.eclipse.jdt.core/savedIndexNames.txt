@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+/Users/andrewilkinson/Desktop/javaFund/zzspring_loader/.metadata/.plugins/org.eclipse.jdt.core
+3604710232.index
+1142157866.index
+1820465688.index
